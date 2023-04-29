@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArnavChaturvedi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python, c, c++, web development and DSA.
+- 💞️ I’m looking to collaborate on linkedin and github.
 - 📫 How to reach me arnavchaturvedi2004@gmail.com /  linkedin.com/in/arnavchaturvedi21
 
 <!---
